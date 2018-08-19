@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
-baseurl: "/math-solution"
-url: "https://hjwu.github.io/"
+baseurl: ""
+url: "https://hjwu.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
