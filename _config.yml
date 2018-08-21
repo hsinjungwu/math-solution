@@ -80,3 +80,4 @@ plugins: [jekyll-paginate]
 exclude:
   - Gemfile
   - Gemfile.lock
+  - vendor
