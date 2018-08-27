@@ -30,9 +30,9 @@ $$
 
 thus $$k+2=2^pr_1$$ and $$n-k=2^pr_2$$, where $$r_1, r_2$$ are both odd.
 
-If not, suppose $$r_1$$ is even then $$n-k-1$$ is even, so $$n-k$$ is odd. (contradiction!!)
+If not, suppose $$r_1$$ is even then $$n-k-1$$ is even, so $$n-k$$ is odd. $$\Rightarrow\!\Leftarrow$$
 
-Similarly when $$r_2$$ is even, we still have the contradition.
+Similarly when $$r_2$$ is even, we still have the contradiction.
 
 So by discuss above, 
 

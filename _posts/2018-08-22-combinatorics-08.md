@@ -26,6 +26,6 @@ P_{i-1} &= (R_i, R_{i-1})\\
 \end{aligned}
 $$
 
-Repeat the progress, we have $$P_0 = P_{j-i} = (1,0)$$. It means $$R_{j-i} = 0$$ but $$j-i > 0$$, contradiction.
+Repeat the progress, we have $$P_0 = P_{j-i} = (1,0)$$. It means $$R_{j-i} = 0$$ but $$j-i > 0, \Rightarrow\!\Leftarrow.$$
 
 Then there exist some $$F_n$$ s.t. divisible by $$m$$.

@@ -40,7 +40,7 @@ $$
 \end{aligned}
 $$
         
-, but $$k > 1$$, contradiction.
+, but $$k > 1 \Rightarrow\!\Leftarrow.$$
 
 ----
 
@@ -97,7 +97,7 @@ $$
 \end{aligned}
 $$
 
-, but $$k > 3$$, contradiction.
+, but $$k > 3 \Rightarrow\!\Leftarrow.$$
 
 ----
 

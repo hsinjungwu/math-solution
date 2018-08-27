@@ -35,11 +35,11 @@ $$
 
 ## Case : k = 2
 
-Then the equation $$(\star)$$ becomes $$(n-3)n(n-2)! = 2!(n-1)!$$, hence we have $$n^2 - 5n + 2 = 0$$. However the root $$n$$ is not an integer.(Contradiction!!)
+Then the equation $$(\star)$$ becomes $$(n-3)n(n-2)! = 2!(n-1)!$$, hence we have $$n^2 - 5n + 2 = 0$$. However the root $$n$$ is not an integer. $$\Rightarrow\!\Leftarrow$$
 
 ## Case : k = 3
 
-Then the equation $$(\star)$$ becomes $$(n-5)n(n-2)! = 3!(n-2)!$$, hence we have $$n=6$$ is the only one positive solution. However $$n\neq 6.$$(Contradiction!!)
+Then the equation $$(\star)$$ becomes $$(n-5)n(n-2)! = 3!(n-2)!$$, hence we have $$n=6$$ is the only one positive solution. However $$n\neq 6. \Rightarrow\!\Leftarrow$$
 
 ## Case : k > 3 
 
